@@ -11,5 +11,3 @@ HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
 
-when two or mtethods within the same class have same class but signatures( no, type,
-order of agruements) the function is known as function overloading.
